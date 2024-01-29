@@ -32,3 +32,4 @@ After this install subfinder from the below link and select the required version
 ## Example
 
 ```bash
+Enter the target domain: example.com
