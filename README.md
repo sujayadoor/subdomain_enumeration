@@ -14,15 +14,17 @@ After this install subfinder from the below link and select the required version
 
 ## Usage
 
-Clone the repository:
+step1 :Clone the repository:
 
 git clone https://github.com/AnonError404/subdomain_enumeration.git
 cd subdomain_enumeration
-Run the script:
+
+step2 :Run the script:
 
 python subdomain_enum.py
-Enter the target domain when prompted.
 
-Example
+step3:Enter the target domain when prompted.
+
+## Example
 Enter the target domain: example.com
  
